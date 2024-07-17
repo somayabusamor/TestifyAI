@@ -1,0 +1,9 @@
+/* src/components/AdminHome/style.css */
+.admin-home-container {
+	/* Add your styles for admin home page */
+	margin: 20px;
+	padding: 20px;
+	border: 1px solid #ccc;
+	background-color: #f0f0f0;
+  }
+  
